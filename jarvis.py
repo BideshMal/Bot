@@ -116,5 +116,5 @@ if __name__ == "__main__":
                 print(e)
                 speak("Sorry my friend. I am not able to send this email at this moment")    
 #if __name__=="__main__":
-    #speak("I love you shrestha ")
+    #speak("I love you  ")
     
